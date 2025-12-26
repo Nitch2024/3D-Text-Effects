@@ -2,7 +2,7 @@
 
 # Reproducing look and feel of textstudio.com
 - Roughly based on [Super preset from textstudio.com](https://www.textstudio.com/logo/super-text-effect-2187)
-- The rendering does not match 100%, mostly eye balled
+- The rendering does not match 100%, mostly eyeballed
 - CSS rendering is a pure academic exercise not meant to be used but shared in case it helps others
 - Canvas rendering is more valuable and can be saved as an image
 - Possibly useful as reference or tutorial given the lack of comparable available information
