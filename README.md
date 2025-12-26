@@ -4,8 +4,8 @@
 - Roughly based on [Super preset from textstudio.com](https://www.textstudio.com/logo/super-text-effect-2187)
 - The rendering does not match 100%, mostly eye balled
 - CSS rendering is a pure academic exercise not meant to be used but shared in case it helps others
-- Canvas rendering is more useful and can be saved as an image
-- Should be useful as reference or tutorial given the lack of comparable available information
+- Canvas rendering is more valuable and can be saved as an image
+- Possibly useful as reference or tutorial given the lack of comparable available information
 
 # Very limited
 - This is prototyping code, do not expect more
